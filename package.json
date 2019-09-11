@@ -1,0 +1,31 @@
+{
+  "name": "talk-typelevel-ts",
+  "version": "1.0.0",
+  "description": "Code samples for my talk \"Type-level programming in TypeScript\"",
+  "main": "index.js",
+  "dependencies": {
+    "fp-ts": "^2.0.5",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YBogomolov/talk-typelevel-ts.git"
+  },
+  "keywords": [
+    "typelevel",
+    "typescript",
+    "fp",
+    "functional"
+  ],
+  "author": "Yuriy Bogomolov <yuriy.bogomolov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YBogomolov/talk-typelevel-ts/issues"
+  },
+  "homepage": "https://github.com/YBogomolov/talk-typelevel-ts#readme"
+}
